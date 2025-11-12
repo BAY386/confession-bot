@@ -1,1 +1,3 @@
-worker: python confession_bot.py
+python-telegram-bot==20.3
+
+
